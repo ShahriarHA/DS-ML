@@ -2,7 +2,6 @@
 
 def DataTypeChecker(data):
     # pass
-
     if type(data) is list:
         return "List"
     elif type(data) is int:
